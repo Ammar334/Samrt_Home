@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/MCAL_layer/Uart/uart.h</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/MCAL_layer/Mcal_Initialize.c</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/ECU_layer/ecu_initialize.c</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/MCAL_layer/ADC/hal_ADC.c</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/MCAL_layer/SPI/spi.c</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/application.c</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/ECU_layer/Char_lCD/ecu_chr_lcd.c</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/application.h</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/MCAL_layer/device_config.h</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/MCAL_layer/EEPROM/hal_eeprom.c</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/ECU_layer/Char_lCD/ecu_chr_lcd.h</file>
+            <file>file:/D:/empedd%20systems/part%202%20microcontroller/my_projects/project.X/MCAL_layer/Uart/uart.c</file>
+        </group>
+    </open-files>
+</project-private>
